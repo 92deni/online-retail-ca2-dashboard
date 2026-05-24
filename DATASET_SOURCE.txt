@@ -1,0 +1,6 @@
+Dataset source for report/reference:
+
+UCI Machine Learning Repository. Online Retail Dataset.
+Official source: https://archive.ics.uci.edu/dataset/352/online+retail
+
+Use this as proof that the data is real-world and not synthetic.

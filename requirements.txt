@@ -1,0 +1,11 @@
+pandas
+numpy
+openpyxl
+scikit-learn
+scipy
+matplotlib
+plotly
+mlxtend
+streamlit
+jupyter
+nbformat
