@@ -403,7 +403,7 @@ with tab4:
         display_rules = rules[["antecedents_text", "consequents_text", "support", "confidence", "lift"]].head(10)
         st.dataframe(display_rules, use_container_width=True)
     else:
-        st.info("Association rules from Apriori and FP-Growth were generated in the Jupyter Notebook and are discussed in the written report.")
+        st.info("Apriori and FP-Growth were implemented in the Jupyter Notebook. The main association rule results are summarised in the written report, including support, confidence and lift.")
 
 with tab5:
     st.header("Dashboard design for adults aged 65+")
